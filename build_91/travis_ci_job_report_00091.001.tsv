@@ -1,0 +1,2 @@
+Build Timestamp (UTC)	Build	Job	Job URL	Build Trigger	Allow Job Failure	PR#	Branch	Commit	Commit Range	Commit Message	Sketch Filename	Board ID	IDE Version	Program Storage (bytes)	Dynamic Memory (bytes)	# Warnings	Allow Failure	Exit Code	Board Error
+2017-05-12 19:36:04	91	91.1	https://travis-ci.org/per1234/test/jobs/231685341	push	false	false	dev	c416baf531cf3d8d8240fc64aa38a8df34f0fa8b	bd3bc0bea38c...c416baf531cf	test master branch	/usr/local/share/arduino/examples/01.Basics/BareMinimum/BareMinimum.ino	arduino:avr:uno	1.8.2	444	9	0	false	0	
