@@ -1,0 +1,2 @@
+Build Timestamp (UTC)	Build	Job	Job URL	Build Trigger	Allow Job Failure	PR#	Branch	Commit	Commit Range	Commit Message	Sketch Filename	Board ID	IDE Version	Program Storage (bytes)	Dynamic Memory (bytes)	# Warnings	Allow Failure	Exit Code	Board Error
+2017-05-18 13:29:11	122	122.1	https://travis-ci.org/per1234/test/jobs/233633280	push	false	false	error-test	4011af4fc5c441e1b0d756b2cb9389d472ee5459		test compilation error handling	/home/travis/Arduino/libraries/WirelessOregonV2/examples/OregonReceiver/OregonReceiver.ino	arduino:sam:arduino_due_x_dbg	1.8.2				false	3	
