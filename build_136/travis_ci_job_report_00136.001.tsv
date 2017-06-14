@@ -1,0 +1,2 @@
+Build Timestamp (UTC)	Build	Job	Job URL	Build Trigger	Allow Job Failure	PR#	Branch	Commit	Commit Range	Commit Message	Sketch Filename	Board ID	IDE Version	Program Storage (bytes)	Dynamic Memory (bytes)	# Warnings	Allow Failure	Exit Code	Board Error
+2017-06-14 06:41:20	136	136.1	https://travis-ci.org/per1234/test/jobs/242709199	push	false	false	dev	bbd56c723cc28e9ee00ebe8010ff8e2a40e9f93d	9d662b0dc1cb...bbd56c723cc2	test revert-to-previous-verbosity branch	/home/travis/arduino-ide/arduino/examples/01.Basics/BareMinimum/BareMinimum.ino	arduino:avr:uno	1.8.3	444	9	0	false	0	
